@@ -1,9 +1,5 @@
-/*
-* Name: Taha Anwar
-* Section: 5
-* Assignment: Lab 6: HTML Converter
-* A program to convert plain text to HTML format.
-*/
+// Name: Taha Anwar
+// A program to convert plain text to HTML format.
 
 
 import java.io.File;
